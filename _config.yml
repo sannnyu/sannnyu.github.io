@@ -1,13 +1,14 @@
 # Site
-name: "SANNNYU"
-title: "SANNNYU"
-description: "好巧，你也在网上冲浪啊🏄‍♀️"
+name: "SANNNYU.COM"
+title: "SANNNYU.COM"
+description: "好巧，你也在网上冲浪"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
 # google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# 邮件订阅
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
@@ -15,7 +16,7 @@ permalink: /:title/
 authors:
   sal:
     name: Sal
-    avatar:'assets/images/avatar.png'
+    avatar: 'assets/images/avatar.png'
     display_name: Sal
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
@@ -31,6 +32,15 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  sa:
+    name: SANNNYU.COM
+    avatar: 'https://sab-oss.oss-cn-beijing.aliyuncs.com/img/icon.png'
+    email: sangyu.li@outook.com
+    web: www.sannnyu.com
+    description: 本网站作者
+
+
+
 
 # Plugins
 plugins:
