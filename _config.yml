@@ -4,7 +4,7 @@ title: "SANNNYU.COM"
 description: "好巧，你也在网上冲浪"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: sannnyu.com/
+baseurl: /sannnyu.com
 # google_analytics: 'UA-46278016-1'
 # disqus: 'demowebsite'
 # 邮件订阅
