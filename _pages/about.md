@@ -31,7 +31,7 @@ comments: true
 
 技术栈：C#，嵌入式（STM32、Arduino），PS，AE，Pr
 
-GitHub：[https://github.com/sannnyu](https://github.com/sannnyu?fileGuid=5cb620bee7384fb2)
+GitHub：[https://github.com/sannnyu](https://github.com/sannnyu)
 
 ### 个人简介
 
@@ -53,7 +53,7 @@ GitHub：[https://github.com/sannnyu](https://github.com/sannnyu?fileGuid=5cb620
 
 * 共青团湖北省委宣传部    青春湖北新媒体编辑	2019.03-2019.08
 
-运营青春湖北微博、微信；作图、斗鱼直播、视频剪辑、平台数据处理（使用Pyhthon）、建设并维护网站，技术支持。
+运营青春湖北微博、微信；作图、斗鱼直播、视频剪辑、平台数据处理（使用Pyhthon）、建设并维护“五四一百周年·青春心向党，建设新时代”网站、提供技术支持。
 
 * 武汉铁路局襄阳车辆段    检修车间制动钳工	2018.08-至今
 
@@ -71,13 +71,15 @@ GitHub：[https://github.com/sannnyu](https://github.com/sannnyu?fileGuid=5cb620
 
 * 其他
 
-2020.12 深度学习技术及应用国家工程实验室“飞桨产业应用创新奖”[铁路货车车身字符及标识自动检测](https://baijiahao.baidu.com/s?id=1687959853235426003)
+2018.12 微软认证 Excel 专家（Microsoft Office Specialist [Excel Expert]）
+
+* 获奖
+
+2020.12 深度学习技术及应用国家工程实验室“飞桨产业应用创新奖”[铁路货车车身字符及标识自动检测](https://baijiahao.baidu.com/s?id=1687959853235426003)（中央电视台记录频道专访）
 
 2019.06 华中科技大学Unique Hackday黑客马拉松 最佳创意奖、大宇无限企业奖（[获奖作品：智慧农业物联网](https://mp.weixin.qq.com/s/KIxtdPEjKSgSHqK__4h9Bw)）
 
 2019.02 武汉大学微软校园黑客马拉松 一等奖（获奖作品：硬件翻译）
-
-2018.12 微软认证 Excel 专家（Microsoft Office Specialist [Excel Expert]）
 
 ### 社团
 
