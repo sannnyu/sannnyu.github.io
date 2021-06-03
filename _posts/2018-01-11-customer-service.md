@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inception Movie
-author: john
+author: sa
 categories:
 - Jekyll
 - tutorial
